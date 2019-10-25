@@ -23,7 +23,7 @@ Anaconda를 이용하여 라이브러리들을 설치하고, 코드들의 검증
               
 ### 필요 Python 패키지
 
-pip install xlrd seaborn matplotlib numpy scipy sklearn jupyter pydot 
+pip install xlrd seaborn matplotlib numpy scipy sklearn jupyter pydot gensim bs4
 
 ### 원본 Source Repository와의 차이점
 
