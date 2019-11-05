@@ -1,4 +1,13 @@
 # Hands-On Transfer Learning with Python
+# 파이썬을 활용한 딥러닝 전이학습
+
+
+책 안내
+https://wikibook.co.kr/tag/%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5/
+
+책 관련 발표 동영상
+
+https://www.youtube.com/playlist?list=PLqkITFr6P-oQlgZS4-XNRcYW2FBUPrc0h
 
 The code will look like the following:
 ```
@@ -11,7 +20,7 @@ np.random.seed(42)
 ```
 
 
-## Software and Hardware List
+## 소프트웨어와 하드웨어 리스트
 
 Anaconda를 이용하여 라이브러리들을 설치하고, 코드들의 검증 작업을 진행하였습니다. 
 
