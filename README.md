@@ -10,11 +10,20 @@
 
 https://wikibook.co.kr/tag/%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5/
 
-책 관련 발표 동영상
+# 책 관련 발표 동영상
 
 https://www.youtube.com/playlist?list=PLqkITFr6P-oQlgZS4-XNRcYW2FBUPrc0h
 
-The code will look like the following:
+# 책 또는 동영상 버전 관련 이슈
+
+conda에서 지원하는 최신 tensorflow 버전(v2.0)을 지원하고 있으나 영상과 책은 1.13.1을 사용하고 있습니다.   
+conda install tensorflow==1.13.1        
+
+라는 명령어로 tensorflow버전을 낮춘 후 실행하시면 에러 없이 진행할 수 있습니다.    
+
+사용하고 있는 라이브러리 등의 정보는 다음과 같습니다.     
+
+
 ```
 import glob
 import numpy as np
